@@ -1,0 +1,8 @@
+C:\Users\katol\Desktop\projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\katol\Desktop\projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\katol\Desktop\projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\katol\Desktop\projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Users\katol\Desktop\projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\katol\Desktop\projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\katol\Desktop\projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\katol\Desktop\projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
